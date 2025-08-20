@@ -2,7 +2,7 @@ admin: prateek
 
 prateek:
   name: Prateek Kumar Mureliya
-  image: /old-blog-site/assets/images/profile.jpg
+  image: /assets/images/profile.jpg
   designation: Software Engineer
   description: I'm a software engineer who likes learning, discussing, and solving interesting problems.
   path: /

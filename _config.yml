@@ -21,12 +21,12 @@ sass:
 defaults:
   - 
     scope:
-      path: 'old-blog-site'
+      path: ''
       type: posts
     values:
       layout: article
       author: prateek
-      permalink: /:categories/:year/:month/:day/:title/
+      permalink: /old-blog-site/:categories/:year/:month/:day/:title/
       categories: blog
       excerpt_separator: <!--more-->
 

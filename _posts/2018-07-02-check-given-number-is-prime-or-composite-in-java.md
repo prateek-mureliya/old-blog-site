@@ -2,7 +2,7 @@
 categories: [java]
 tags: ['Java Programs']
 title: Write a program to check given number is prime or composite in java
-image: /assets/images/prime-number.jpg
+image: /old-blog-site/assets/images/prime-number.jpg
 ---
 
 **Prime number** is a positive integer greater than 1 that can be divided by 1 and itself. For example 2, 3, 5, 7, 11, 13, 17.... are the prime numbers.

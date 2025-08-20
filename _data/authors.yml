@@ -2,7 +2,7 @@ admin: prateek
 
 prateek:
   name: Prateek Kumar Mureliya
-  image: /assets/images/profile.jpg
+  image: /old-blog-site/assets/images/profile.jpg
   designation: Software Engineer
   description: I'm a software engineer who likes learning, discussing, and solving interesting problems.
   path: /
@@ -22,4 +22,4 @@ prateek:
     -
         text: Github
         icon: <i class="fa fa-fw fa-github"></i>
-        link: https://github.com/prateekkumar1393/
+        link: https://github.com/prateek-mureliya/

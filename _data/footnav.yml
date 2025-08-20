@@ -1,9 +1,9 @@
 -
   title: Subscribe
   icon: <i class="fa fa-fw fa-rss"></i>
-  link: /feed.xml
+  link: /old-blog-site/feed.xml
 
 -
   title: Sitemap
   icon: <i class="fa fa-fw fa-sitemap"></i>
-  link: /sitemap.xml
+  link: /old-blog-site/sitemap.xml

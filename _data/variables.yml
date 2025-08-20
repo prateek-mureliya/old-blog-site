@@ -1,6 +1,6 @@
 path:
-  root: /old-blog-site/
-  favicon: /old-blog-site/favicon.ico
+  root: /
+  favicon: /favicon.ico
 
 default:
   css:
@@ -17,17 +17,17 @@ cdn:
   css:
     font_awesome: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
     google_icon: https://fonts.googleapis.com/icon?family=Material+Icons
-    main: /old-blog-site/assets/css/main.css
-    blog: /old-blog-site/assets/css/blog.css
-    home: /old-blog-site/assets/css/home.css
-    404: /old-blog-site/assets/css/404.css
+    main: /assets/css/main.css
+    blog: /assets/css/blog.css
+    home: /assets/css/home.css
+    404: /assets/css/404.css
 
   js:
     jquery: https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
     materialize: https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js
     fuse: https://cdn.jsdelivr.net/npm/fuse.js@5.2.3
-    action: /old-blog-site/assets/js/action.js
-    article: /old-blog-site/assets/js/article.js
+    action: /assets/js/action.js
+    article: /assets/js/article.js
 
 
 # css:

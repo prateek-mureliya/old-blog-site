@@ -21,7 +21,7 @@ sass:
 defaults:
   - 
     scope:
-      path: ''
+      path: 'old-blog-site'
       type: posts
     values:
       layout: article

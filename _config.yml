@@ -1,7 +1,7 @@
 title: Mureliya blog
 description: >-
   I'm a software engineer who likes learning, discussing, and solving interesting problems.
-baseurl: ""
+baseurl: "old-blog-site/"
 url: "https://prateek-mureliya.github.io/old-blog-site/"
 github-repo: https://github.com/prateek-mureliya/old-blog-site
 jekyll: https://jekyllrb.com/

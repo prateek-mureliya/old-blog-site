@@ -2,7 +2,7 @@
 categories: [java]
 tags: ['Java Programs']
 title: Write a program to print fibonacci series in java
-image: /assets/images/fibonacci-series.dib
+image: /old-blog-site/assets/images/fibonacci-series.dib
 ---
 
 In fibonacci series, next number is the sum of previous two numbers for example 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55 etc.
